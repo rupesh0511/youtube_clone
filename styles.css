@@ -1,0 +1,184 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    overflow: hidden;
+
+}
+.navbar{
+    height: 9vh;
+    width: 100vw;
+    /* border: 1px solid #DDDDDD; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #FFFFFF;
+    padding:20px ;
+    font-family: sans-serif;
+
+
+}
+img{
+    width: 50px;
+    height: 100%;
+    mix-blend-mode: multiply;
+}
+.center{
+    display: flex;
+    align-items: center;
+    
+    /* background-color: #F0F0F0; */
+}
+.left{
+    align-items: center;
+    display: flex;
+    margin-left: 10px;
+    gap: 20px;
+
+}
+i{
+    color: #606060;
+    cursor: pointer;
+   
+}
+.right{
+    align-items: center;
+    display: flex;
+    margin-right: 10px;
+    gap: 8px; 
+}
+input{
+    border: 1px solid #DDDDDD;
+    width: 500px;
+    height: 35px;
+    padding: 10px;
+}
+
+.center i{
+   background-color: #F0F0F0;
+   height: 35px;
+   padding-top: 5px;
+}
+
+span{
+    font-size:small;
+}
+
+/* main */
+
+.main{
+    height: 91vh;
+    display: flex;
+    background-color: #F9F9F9;
+}
+
+.sidebar{
+    height: 91.8vh;
+    width: 38vw;
+    background-color: #FFFFFF;
+    font-family: sans-serif;
+    font-weight: lighter;
+    font-size:15px;
+    padding: 5px;
+   
+
+}
+
+
+.upper{
+ /* display: flex;
+flex-direction: column;
+align-items: center; */
+margin-top: 15px;
+margin-bottom: 15px;
+padding-left: 18px; 
+
+ }
+
+ .divconu{
+    padding-top:15px ;
+    padding-bottom: 15px;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+ }
+
+ .divconu:hover{
+    background-color: #e5e5e5;
+    cursor: pointer;
+ }
+
+ .niche{
+    /* display: flex;
+   flex-direction: column;
+   align-items: center; */
+   margin-top: 15px;
+   margin-bottom: 15px;
+   padding-left: 18px; 
+}
+   
+
+/* video part  */
+
+.tumbnail img{
+    width: 310px;
+    height: 170px;
+}
+.cont_img{
+    padding: 5px;
+    width: 310px;
+    display: flex;
+
+    gap: 10px;
+}
+.cont_img img{
+    width: 100px;
+}
+
+.channel_name{
+    margin-left:51px ;
+    color: #606060;
+}
+a{
+    color: #606060;
+    text-decoration: none;
+}
+.video{
+  
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding-top: 24px;
+    
+    
+   
+   
+
+}
+.video_main{
+    border-top: 1px solid #e5e5e5;
+    overflow-y: scroll;
+    padding: 15px;
+    
+}
+
+.last{
+    margin: 15px 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding-top: 24px;
+    
+    
+}
+.videos_cont{
+    margin-bottom: 20px;
+}
+
+hr{
+   height: 1px;
+   border: none;
+   background-color: #e5e5e5;
+
+   
+}
