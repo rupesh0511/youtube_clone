@@ -1,5 +1,7 @@
 # youtube_clone
 hosted link-  https://rupesh0511.github.io/youtube_clone/
+
+
 HTML
 ![Screenshot 2023-08-18 195335](https://github.com/rupesh0511/youtube_clone/assets/69234169/d81e120f-9bb0-40ff-9696-8262f8b1ca01)
 ![Screenshot 2023-08-18 195347](https://github.com/rupesh0511/youtube_clone/assets/69234169/17418283-48e5-4477-99d8-f9ab4fb31579)
@@ -13,6 +15,8 @@ HTML
 ![Screenshot 2023-08-18 195517](https://github.com/rupesh0511/youtube_clone/assets/69234169/6694cf09-f15d-483e-bc08-8b582bf92b31)
 
 CSS
+
+
 ![Screenshot 2023-08-18 195527](https://github.com/rupesh0511/youtube_clone/assets/69234169/33e03700-3275-4a48-bcc1-11dbd7c8adc4)
 ![Screenshot 2023-08-18 195537](https://github.com/rupesh0511/youtube_clone/assets/69234169/d921b7c8-3f55-40de-8f58-b931ce88fffd)
 ![Screenshot 2023-08-18 195545](https://github.com/rupesh0511/youtube_clone/assets/69234169/7d92cd95-9e8b-4299-ad4d-9cdc8e29e035)
